@@ -10,6 +10,7 @@ public class Function {
         int z = 9;
 
         namaKu.Gopal("Andi");
+        namaKu.Gopal("Contoh GIT");
         tambah(x,y);
         tambah(x,z);
         tambah(y,z);
